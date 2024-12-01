@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Gupta</h1>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **REACT**
   
 <p align="left">
 </p>
