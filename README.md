@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Gupta</h1>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT and NEXT.JS** 
   
 <p align="left">
 </p>
