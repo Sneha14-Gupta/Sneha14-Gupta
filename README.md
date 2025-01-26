@@ -1,6 +1,6 @@
   <h2 id="hi-im-ifeanyi-nneji">Hi, I’m Sneha Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+also+studying+Computer+Engineering"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer"></a>
 </p>
 <p align="center">
 
