@@ -68,8 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sneha14-Gupta/Sneha14-Gupta/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">Hello World!!</p>
