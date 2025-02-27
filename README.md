@@ -39,8 +39,6 @@
   <img width="12">
   <img src="https://cdn.simpleicons.org/jest/C21325" height="30px" width="30px" alt="jest logo">
   <img width="12">
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30px" width="30px" alt="anaconda logo">
-  <img width="12">
   <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="30px" width="30px" alt="babel logo">
   <img width="12">
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30px" width="30px" alt="cloudflare logo">
