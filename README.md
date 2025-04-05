@@ -11,7 +11,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
   </a>   
   </p>
-<p>Enthusiastic and motivated fresher with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive, user-friendly websites and web applications. Eager to learn new technologies and contribute to innovative projects. Dedicated to delivering clean, efficient, and modern web solutions
+<p>Enthusiastic and motivated fresher with a strong foundation in HTML, CSS,JavaScript, and React. Passionate about creating responsive, user-friendly websites and web applications. Eager to learn new technologies and contribute to innovative projects. Dedicated to delivering clean, efficient, and modern web solutions
 </p>
 <h2 id="tech-stack">Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
 <p align="center">
